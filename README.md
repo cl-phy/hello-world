@@ -2,4 +2,5 @@
 study
 hello, cl!
 I'm studying the git.
-I add one new line
+I add one new line.
+Add more...
